@@ -1,0 +1,20 @@
+{
+  "name": "nicopedia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^2.5.0",
+    "csv-stringify": "^3.1.1",
+    "japanese": "^1.2.0",
+    "lodash": "^4.17.10",
+    "striptags": "^3.1.1",
+    "unzip-stream": "^0.3.0"
+  }
+}

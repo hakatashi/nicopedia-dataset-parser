@@ -1,0 +1,6 @@
+node_modules
+/target
+**/*.rs.bk
+*.7z
+*.zip
+*.csv

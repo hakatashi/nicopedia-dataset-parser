@@ -1,0 +1,9 @@
+[package]
+name = "nicopedia-dataset-parser"
+version = "0.1.0"
+authors = ["Koki Takahashi <hakatasiloving@gmail.com>"]
+
+[dependencies]
+csv = "1.0.0"
+fnv = "1.0.3"
+zip = "0.4.2"
